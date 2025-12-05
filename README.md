@@ -1,16 +1,44 @@
-# smart_health_glove
+Smart Health Glove – Flutter Mobile App 🧤💚
 
-A new Flutter project.
+The Smart Health Glove is a wearable IoT system designed to assist patients in hand rehabilitation by tracking finger movement, tremors, vitals, and providing real-time monitoring via a Flutter mobile application.
 
-## Getting Started
+This repository contains the Flutter mobile application for visualizing sensor data, analytics, alerts, and user profile information.
 
-This project is a starting point for a Flutter application.
+📱 Mobile App Screenshots
+🔹 Splash Screen
+<img src="screenshots/splash.jpg" width="300"/>
+🔹 Home – Real-time Monitoring
+<img src="screenshots/home.jpg" width="300"/>
+🔹 Analytics Dashboard
+<img src="screenshots/analytics.jpg" width="300"/>
+🔹 Notifications
+<img src="screenshots/notifications.jpg" width="300"/>
+🔹 User Profile
+<img src="screenshots/profile.jpg" width="300"/>
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+Real-time flex sensor readings
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tremor and movement trend analysis
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Vitals display (SpO₂, Battery, Activity)
+
+User profile & session statistics
+
+Notifications interface
+
+Smooth and modern UI/UX
+
+Firebase authentication & Firestore integration
+
+🧩 Architecture
+
+The Smart Health Glove system includes:
+
+ESP32 IoT device (flex sensors + IMU + wireless)
+
+Flutter mobile app (this repository)
+
+Firebase backend
+
+Analytics dashboard (web or mobile)
