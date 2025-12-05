@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "815014262533",
+    "firebase_url": "https://smartglove-7db11-default-rtdb.firebaseio.com",
+    "project_id": "smartglove-7db11",
+    "storage_bucket": "smartglove-7db11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815014262533:android:19723b154b34eff47ce96c",
+        "android_client_info": {
+          "package_name": "com.smarthealth.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypFnzY7QMXJjq758v9a1JbYWNVCL2Tbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
